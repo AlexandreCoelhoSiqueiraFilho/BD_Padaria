@@ -1,4 +1,8 @@
 # BD_Padaria
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 # Sistema de Gerenciamento de Padaria
 
 Um projeto de banco de dados relacional para gerenciamento de uma padaria, desenvolvido em SQL.
